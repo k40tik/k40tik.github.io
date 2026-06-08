@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://k40tik.github.io/sitemap.xml
